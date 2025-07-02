@@ -53,8 +53,8 @@ This project is an end-to-end (E2E) test automation suite built with [Playwright
 ### ✅ 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mohammedyouness/playwright-e2e-saucedemo.git
-cd playwright-e2e-saucedemo
+git clone https://github.com/mohammedyouness/saucedemo-task.git
+cd saucedemo-task
 ```
 
 ### ✅ 2. Install Dependencies
