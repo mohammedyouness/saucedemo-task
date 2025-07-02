@@ -8,7 +8,7 @@ export default defineConfig({
   testDir: './tests',
   use: {
     baseURL: 'https://www.saucedemo.com',
-    headless: false,
+    headless: true,
     trace: 'on-first-retry',
     video: 'retain-on-failure',
     screenshot: 'only-on-failure',
